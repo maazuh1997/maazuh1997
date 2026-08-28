@@ -1,106 +1,122 @@
 <div align="center">
 
-# Hi, I'm Maaz Ul Haq 👋
+<img src="assets/profile-banner.svg" alt="Maaz Ul Haq — Full-Stack Developer, AI & Automation, API Engineering" width="100%" />
+
+# Maaz Ul Haq
 
 ### Full-Stack Developer · AI & Automation · API Engineering · SaaS
 
-I build practical, scalable digital products by combining **full-stack engineering, backend/API development, AI, automation, and modern web technologies**.
+**I turn ideas into intelligent, scalable products.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/maazuh1997)
+[![GitHub](https://img.shields.io/badge/GitHub-maazuh1997-181717?style=for-the-badge&logo=github)](https://github.com/maazuh1997)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-I'm a software developer focused on turning ideas into **production-ready applications and intelligent products**.
+I'm a software developer focused on building **real-world digital products** across full-stack web development, backend systems, APIs, AI, automation, and SaaS.
 
-My work spans the full development lifecycle — from product architecture and API design to frontend development, database integration, AI-powered workflows, and deployment.
+I work across the complete product lifecycle — **architecture → backend → frontend → integrations → AI workflows → deployment → iteration**.
 
-- 🧠 Building **AI-powered applications, agents, and automation workflows**
-- ⚙️ Developing **REST APIs, backend services, and scalable application architectures**
-- 💻 Creating modern **full-stack web applications and SaaS products**
-- 🔌 Integrating third-party APIs and external services into real-world products
-- 🛠️ Building developer-focused tools and productivity solutions
-- 📈 Focused on creating products that are useful, maintainable, and commercially viable
-
----
-
-## 💡 Core Expertise
-
-| Area | Focus |
-| --- | --- |
-| **Full-Stack Development** | Modern frontend and backend application development |
-| **Backend & APIs** | REST APIs, services, integrations, authentication, business logic |
-| **AI & Automation** | AI applications, intelligent workflows, agents, automation |
-| **SaaS & Products** | Product architecture, MVP development, feature design |
-| **Databases** | Data modeling, persistence, querying, application integration |
-| **Developer Tools** | Utilities, API tools, productivity and engineering workflows |
-| **Integrations** | Third-party APIs, OAuth, external platforms and services |
+- 🧠 AI-powered applications, agents & intelligent workflows
+- ⚙️ Backend systems, REST APIs & business logic
+- 💻 Modern full-stack web applications
+- 🚀 SaaS products and MVP-to-production development
+- 🔌 Third-party API & service integrations
+- 🛠️ Developer tools and productivity platforms
 
 ---
 
-## 🧰 Technology Stack
+## 🧩 What I Do
 
-### Languages & Web
+<table>
+<tr>
+<td width="50%">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### Full-Stack Engineering
 
-### Frontend
+Designing and building complete web products with modern frontend, backend, database, and API layers.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
-### Backend & APIs
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-02569B?style=flat-square)
+</td>
+<td width="50%">
 
 ### AI & Automation
 
-![AI](https://img.shields.io/badge/AI-Powered_Applications-412991?style=flat-square)
-![Automation](https://img.shields.io/badge/Automation-Workflows-6F42C1?style=flat-square)
+Building AI-powered features, intelligent workflows, agents, and automation into practical applications.
 
-### Databases & Development
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+### API Engineering
+
+Creating REST APIs, integrations, authentication flows, services, and backend architectures.
+
+</td>
+<td width="50%">
+
+### Product Engineering
+
+Taking ideas from concept to working MVP and continuously improving them into useful products.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔨 What I'm Building
+## 🧰 Technology
 
-I'm currently focused on building a portfolio of practical products across **AI, automation, SaaS, APIs, developer tooling, and consumer applications**.
+**Languages & Web**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Selected Work
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-- **DealRadar** — deal discovery and product intelligence platform
-- **CreatorOS** — creator-focused productivity and content workflow platform
-- **DevBox** — developer utilities and API-focused tooling platform
-- **Planovea** — intelligent planning and recommendation platform
+**Backend & APIs**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![REST](https://img.shields.io/badge/REST-API-02569B?style=flat-square)
 
-These projects reflect my approach to software development: **identify a real problem, design the system, build the product, integrate the required services, and continuously improve it.**
+**Data & Tools**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+**AI & Automation**  
+![AI](https://img.shields.io/badge/AI-Powered_Applications-412991?style=flat-square) ![Automation](https://img.shields.io/badge/Automation-Workflows-6F42C1?style=flat-square)
+
+---
+
+## 🚀 Selected Work
+
+### DealRadar
+Deal discovery and product intelligence platform focused on finding and evaluating relevant deals through APIs and intelligent workflows.
+
+### CreatorOS
+Creator-focused productivity and content workflow platform designed around streamlined creation and collaboration.
+
+### DevBox
+Developer utilities platform bringing practical tools and API-focused workflows into one place.
+
+### Planovea
+Intelligent planning and recommendation platform combining application logic, APIs, participants, and AI-driven recommendations.
 
 ---
 
 ## 🎯 Current Focus
 
-- AI-powered product development
-- Autonomous and semi-autonomous AI agents
-- API-first application architecture
-- Full-stack SaaS development
-- Automation and intelligent workflows
-- Developer productivity tools
-- Building scalable MVPs into production products
+```text
+AI Applications       ████████████████████  Building
+AI Agents             ███████████████████░  Exploring
+API Engineering       ████████████████████  Building
+Full-Stack SaaS       ████████████████████  Building
+Automation            ███████████████████░  Building
+Developer Tools       ██████████████████░░  Building
+```
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -112,14 +128,12 @@ These projects reflect my approach to software development: **identify a real pr
 
 ---
 
-## 🤝 Let's Connect
+## 💬 Let's Connect
 
-I'm interested in **software development, AI, automation, APIs, SaaS products, and building useful technology**.
-
-If you're working on an interesting product or technical challenge, feel free to connect and collaborate.
+I'm interested in **software engineering, AI, automation, APIs, SaaS, developer tooling, and building products that solve real problems**.
 
 <div align="center">
 
-**Building ideas into products. One system at a time. 🚀**
+**Build. Automate. Ship. Improve. 🚀**
 
 </div>
