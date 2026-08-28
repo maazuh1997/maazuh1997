@@ -87,32 +87,28 @@ Taking ideas from concept to working MVP and continuously improving them into us
 
 ---
 
-## 🚀 Selected Work
+## 🚀 Selected Public Work
 
-### DealRadar
-Deal discovery and product intelligence platform focused on finding and evaluating relevant deals through APIs and intelligent workflows.
+### [DealRadar](https://github.com/maazuh1997/Dealradar-Backend)
+Deal discovery and product intelligence platform focused on **external provider integrations, APIs, and intelligent data workflows**.
 
-### CreatorOS
-Creator-focused productivity and content workflow platform designed around streamlined creation and collaboration.
+[Backend](https://github.com/maazuh1997/Dealradar-Backend) · [Frontend](https://github.com/maazuh1997/Dealradar-Frontend)
 
-### DevBox
-Developer utilities platform bringing practical tools and API-focused workflows into one place.
+### More Work
 
-### Planovea
-Intelligent planning and recommendation platform combining application logic, APIs, participants, and AI-driven recommendations.
+I also build private and in-progress products across **AI, SaaS, automation, developer tooling, planning, productivity, and consumer applications**. These projects remain separate from my public portfolio while they are being developed.
 
 ---
 
 ## 🎯 Current Focus
 
-```text
-AI Applications       ████████████████████  Building
-AI Agents             ███████████████████░  Exploring
-API Engineering       ████████████████████  Building
-Full-Stack SaaS       ████████████████████  Building
-Automation            ███████████████████░  Building
-Developer Tools       ██████████████████░░  Building
-```
+- AI-powered product development
+- Autonomous and semi-autonomous AI agents
+- API-first application architecture
+- Full-stack SaaS development
+- Automation and intelligent workflows
+- Developer productivity tools
+- Turning MVPs into production-ready products
 
 ---
 
@@ -128,7 +124,7 @@ Developer Tools       ██████████████████░�
 
 ---
 
-## 💬 Let's Connect
+## 🤝 Let's Connect
 
 I'm interested in **software engineering, AI, automation, APIs, SaaS, developer tooling, and building products that solve real problems**.
 
