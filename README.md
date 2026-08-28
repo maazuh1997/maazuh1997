@@ -94,10 +94,6 @@ Deal discovery and product intelligence platform focused on **external provider 
 
 [Backend](https://github.com/maazuh1997/Dealradar-Backend) · [Frontend](https://github.com/maazuh1997/Dealradar-Frontend)
 
-### More Work
-
-I also build private and in-progress products across **AI, SaaS, automation, developer tooling, planning, productivity, and consumer applications**. These projects remain separate from my public portfolio while they are being developed.
-
 ---
 
 ## 🎯 Current Focus
@@ -109,18 +105,6 @@ I also build private and in-progress products across **AI, SaaS, automation, dev
 - Automation and intelligent workflows
 - Developer productivity tools
 - Turning MVPs into production-ready products
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maazuh1997&show_icons=true&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maazuh1997&layout=compact&hide_border=true)
-
-</div>
 
 ---
 
