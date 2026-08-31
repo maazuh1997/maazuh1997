@@ -78,9 +78,45 @@ From product idea and architecture to MVP implementation, iteration and producti
 
 ---
 
-## 🌟 Featured Public Project
+## 🚀 Selected Public Products
 
-<div align="center">
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🧰 DevBox
+
+**Developer productivity toolkit**
+
+A browser-first collection of practical tools for JSON, JWT, UUID, hashing, regex, SQL, URLs, QR codes, Markdown and more.
+
+[![Open DevBox](https://img.shields.io/badge/Open-DevBox-181717?style=for-the-badge&logo=github)](https://github.com/maazuh1997/DevBox)
+
+</td>
+<td width="33%" align="center">
+
+### 🎨 CreatorOS
+
+**AI creative workspace**
+
+A creator-focused workflow covering briefs, AI creative concepts, editing, multi-platform repurposing, asset management and sharing.
+
+[![Open CreatorOS](https://img.shields.io/badge/Open-CreatorOS-181717?style=for-the-badge&logo=github)](https://github.com/maazuh1997/CreatorOS)
+
+</td>
+<td width="33%" align="center">
+
+### 🍳 Cook Tonight
+
+**Budget-aware meal decision engine**
+
+Helps people decide what to cook based on ingredients they already have, budget, number of people, missing ingredients and preparation time.
+
+[![Open Cook Tonight](https://img.shields.io/badge/Open-Cook_Tonight-181717?style=for-the-badge&logo=github)](https://github.com/maazuh1997/what-should-i-cook-tonight)
+
+</td>
+</tr>
+</table>
 
 ### 🏷️ DealRadar
 
@@ -91,20 +127,17 @@ External provider integrations · REST APIs · Data workflows · Full-stack appl
 [![Backend](https://img.shields.io/badge/Backend-Repository-181717?style=for-the-badge&logo=github)](https://github.com/maazuh1997/Dealradar-Backend)
 [![Frontend](https://img.shields.io/badge/Frontend-Repository-181717?style=for-the-badge&logo=github)](https://github.com/maazuh1997/Dealradar-Frontend)
 
-</div>
-
 ---
 
 ## 🎯 Current Focus
 
-```text
-AI Applications       ████████████████████
-AI Agents             ███████████████████░
-API Engineering       ████████████████████
-Full-Stack SaaS       ████████████████████
-Automation            ███████████████████░
-Developer Tools       ██████████████████░░
-```
+- AI-powered product development
+- Autonomous and semi-autonomous AI agents
+- API-first application architecture
+- Full-stack SaaS development
+- Automation and intelligent workflows
+- Developer productivity tools
+- Turning MVPs into production-ready products
 
 ---
 
