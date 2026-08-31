@@ -90,7 +90,8 @@ From product idea and architecture to MVP implementation, iteration and producti
 
 A browser-first collection of practical tools for JSON, JWT, UUID, hashing, regex, SQL, URLs, QR codes, Markdown and more.
 
-[![Open DevBox](https://img.shields.io/badge/Open-DevBox-181717?style=for-the-badge&logo=github)](https://github.com/maazuh1997/DevBox)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-2ea44f?style=for-the-badge)](https://maazuh1997.github.io/DevBox/)
+[![GitHub](https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github)](https://github.com/maazuh1997/DevBox)
 
 </td>
 <td width="33%" align="center">
@@ -101,7 +102,8 @@ A browser-first collection of practical tools for JSON, JWT, UUID, hashing, rege
 
 A creator-focused workflow covering briefs, AI creative concepts, editing, multi-platform repurposing, asset management and sharing.
 
-[![Open CreatorOS](https://img.shields.io/badge/Open-CreatorOS-181717?style=for-the-badge&logo=github)](https://github.com/maazuh1997/CreatorOS)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-2ea44f?style=for-the-badge)](https://creator-os-topaz-sigma.vercel.app/)
+[![GitHub](https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github)](https://github.com/maazuh1997/CreatorOS)
 
 </td>
 <td width="33%" align="center">
@@ -112,7 +114,8 @@ A creator-focused workflow covering briefs, AI creative concepts, editing, multi
 
 Helps people decide what to cook based on ingredients they already have, budget, number of people, missing ingredients and preparation time.
 
-[![Open Cook Tonight](https://img.shields.io/badge/Open-Cook_Tonight-181717?style=for-the-badge&logo=github)](https://github.com/maazuh1997/what-should-i-cook-tonight)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-2ea44f?style=for-the-badge)](https://maazuh1997.github.io/what-should-i-cook-tonight)
+[![GitHub](https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github)](https://github.com/maazuh1997/what-should-i-cook-tonight)
 
 </td>
 </tr>
